@@ -1,6 +1,6 @@
 ![global mental trend](https://github.com/user-attachments/assets/a0b093ef-0c1b-4c5b-8314-0401a18dbfbd)
 
-# GLOBAL MENTAL DISORDER
+# GLOBAL TRENDS IN MENTAL DISORDER
 ---
 ## Project Overvieiw
 This dashboard offers an insightful look at global trends in key mental health metrics, including alcohol use, depression, schizophrenia, and bipolar disorder rates.  
