@@ -4,7 +4,9 @@
 ---
 ## Project Overvieiw
 This dashboard offers an insightful look at global trends in key mental health metrics, including alcohol use, depression, schizophrenia, and bipolar disorder rates.  
-### Key Highlights  
+## Tool
+- Tableau was used in the visualization of this dataset
+## Key Highlights  
 #### 1. Alcohol Use Rate
    - Belarus leads with the highest alcohol use rate (11.54%), followed closely by 
      Russia (11.26%) and Eastern Europe (11.15%).  
@@ -38,23 +40,23 @@ This dashboard offers an insightful look at global trends in key mental health m
 
 ## Recommendations  
 
-#### For Governments and Policymakers
- 1. Develop Targeted Mental Health Programs
-    - Focus on regions with the highest disorder prevalence, such as Eastern Europe and Greenland, to address underlying causes and provide accessible care.
-    - Integrate alcohol dependency programs into mental health care strategies.  
+### A. For Governments and Policymakers
+ #### 1. Develop Targeted Mental Health Programs
+ - Focus on regions with the highest disorder prevalence, such as Eastern Europe and Greenland, to address underlying causes and provide accessible care.
+ - Integrate alcohol dependency programs into mental health care strategies.  
 
- 2. Invest in Prevention and Awareness
-    - Conduct widespread campaigns to reduce stigma and encourage early diagnosis and treatment of mental health disorders.
-    - Increase investment in community-based mental health services and telehealth solutions.  
+ #### 2. Invest in Prevention and Awareness
+   - Conduct widespread campaigns to reduce stigma and encourage early diagnosis and treatment of mental health disorders.
+   - Increase investment in community-based mental health services and telehealth solutions.  
 
-#### For Healthcare Systems 
- 3. Enhance Treatment Accessibility
-    - Improve access to counseling, medication, and rehabilitation services in underserved regions, particularly in rural areas of Eastern Europe and Central Asia.
-    - Train healthcare professionals in culturally sensitive approaches to treating mental health issues.  
+### B. For Healthcare Systems 
+ #### 3. Enhance Treatment Accessibility
+   - Improve access to counseling, medication, and rehabilitation services in underserved regions, particularly in rural areas of Eastern Europe and Central Asia.
+   - Train healthcare professionals in culturally sensitive approaches to treating mental health issues.  
 
-#### For Research and NGOs  
- 4. Drive Collaborative Research
-    - Explore the linkages between socioeconomic factors, alcohol use, and mental health disorders.
-    - Develop data-driven interventions to reduce the long-term mental health burden globally.  
+### C. For Research and NGOs  
+ #### 4. Drive Collaborative Research
+   - Explore the linkages between socioeconomic factors, alcohol use, and mental health disorders.
+   - Develop data-driven interventions to reduce the long-term mental health burden globally.  
 
 
